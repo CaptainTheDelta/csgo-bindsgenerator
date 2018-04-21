@@ -1,0 +1,112 @@
+Pistols:
+glock
+hkp2000
+p250
+elite
+deagle
+tec9
+tec9
+
+
+Sub-Machine Guns/PDW's:
+mp9
+mac10
+mp7
+p90
+bizon
+ump45
+
+
+Shotguns:
+nova
+xm1014
+mag7
+sawedoff
+
+
+Machine Guns:
+negev
+m249
+
+
+Rifles:
+sg008
+awp
+ak47
+galilar
+sg556
+g3sg1
+famas
+m4a1
+m4a1
+aug
+scar20
+
+
+Grenades:
+hegrenade
+flashbang
+smokegrenade
+decoy
+molotov
+incgrenade
+
+
+Gears:
+defuser
+vest
+vesthelm
+
+
+Pistols:
+glock - Glock 20 (T Only)
+hkp2000 - P2000
+p250 - P250
+elite - Dual Elites
+deagle - Desert Eagle/Deagle
+tec9 - Five Seven (CT Only)
+tec9 - Tec 9 (T Only)
+
+Sub-Machine Guns/PDW's:
+mp9 - MP9 (CT Only)
+mac10 - Mac 10 (T Only)
+mp7 - MP7
+p90 - P90
+bizon - PP-19 Bizon
+ump45 - UMP .45
+
+Shotguns:
+nova - Nova
+xm1014 - XM 1014
+mag7 - MAG 7 (CT Only)
+sawedoff - Sawed Off (T Only)
+
+Machine Guns:
+negev - Negev
+m249 - M249
+
+Rifles:
+sg008 - SG 008 Sniper/Scout
+awp - AWP Sniper
+ak47 - AK 47 (T Only)
+galilar - Galil (T Only)
+sg556 - SG 556 (T Only)
+g3sg1 - G3 SG1 (T Only)
+famas - Famas (CT Only)
+m4a1 - M4A4 (CT Only)
+m4a1-s - M4A1 Silenced (CT Only)
+aug - AUG (CT Only)
+scar20 - Scar 20 (CT Only)
+
+Grenades:
+hegrenade - Basic Grenade
+flashbang - Flashbang
+smokegrenade - Smoke Grenade
+decoy - Decoy Grenade
+molotov - Molotov (T Only)
+incgrenade - Incindiary Grenade (CT Only)
+
+Gears:
+defuser - Defuse Kit
+vest - Kevlar
+vesthelm - Kevlar+Helment 
